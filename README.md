@@ -137,7 +137,7 @@ Visuals: monthly/yearly trips, trips by destination city, trips by driver, and t
 
 ### 4. Fuel & Delivery Operations
 
-![Fuel & Delivery](images/4_fuel_delivery.png)
+![Fuel & Delivery](Image/4_fuel_delivery.png)
 
 | KPI | Value |
 |---|---|
