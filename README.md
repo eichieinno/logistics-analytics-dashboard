@@ -2,7 +2,7 @@
 
 **An end-to-end Power BI analysis of revenue, fleet maintenance, trip operations, and fuel & delivery performance for a US trucking company, built on 3 years of data (Jan 2022 to Dec 2024) and 85,410 completed loads.**
 
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](Image/0_dashboard_overview.png)
 
 ---
 
