@@ -210,7 +210,6 @@ logistics-analytics-dashboard/
     └── 4_fuel_delivery.png
 ```
 
-> **Note:** `fuel_purchases.csv` (about 20 MB) and the other files are all under GitHub's 100 MB per-file limit, so they can be uploaded directly. If you prefer a lighter repo, upload only a sample of the larger files and link to the full dataset.
 
 ---
 
@@ -226,6 +225,6 @@ logistics-analytics-dashboard/
 ## 👤 Author
 
 **Innocent Felix Eichie**
-Data Analyst | Lagos, Nigeria
+Data Analyst | Sokoto, Nigeria
 
-🔗 [LinkedIn](your-linkedin-link) · 📧 [Email](mailto:your-email) · 💼 [More projects](link-to-your-github-profile)
+🔗 [Phone] +234 9064069074 · 📧 [Email] eichie.inno@gmail.com · 💼 [More projects]
