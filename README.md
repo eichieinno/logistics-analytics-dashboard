@@ -32,7 +32,7 @@ This capstone turns 14 raw operational tables into a **four-page interactive Pow
 
 | Item | Detail |
 |---|---|
-| Source | `[e.g., course-provided / synthetic / company dataset]` |
+| Source | Web |
 | Period | 1 Jan 2022 to 31 Dec 2024 |
 | Format | 14 CSV files (about 68 MB uncompressed) |
 | Scale | 85,410 loads and trips · 170,820 delivery events · 196,442 fuel purchases · 200 customers · 150 drivers · 120 trucks · 180 trailers · 50 facilities · 58 routes |
@@ -96,6 +96,7 @@ This capstone turns 14 raw operational tables into a **four-page interactive Pow
 ## 📊 Dashboard Walkthrough
 
 ### 1. Executive Revenue & Customer Overview
+![Revenue Overview](images/1_revenue_overview.png)
 
 | KPI | Value |
 |---|---|
@@ -107,6 +108,7 @@ This capstone turns 14 raw operational tables into a **four-page interactive Pow
 Visuals: monthly revenue trend, revenue by customer type (Contract $98.8M, Spot $82.9M, Dedicated $80.9M), and top customers by revenue.
 
 ### 2. Fleet & Maintenance
+![Fleet & Maintenance](images/2_fleet_maintenance.png)
 
 | KPI | Value |
 |---|---|
@@ -119,6 +121,7 @@ Visuals: monthly revenue trend, revenue by customer type (Contract $98.8M, Spot 
 Visuals: truck count by status, monthly maintenance cost, downtime hours by maintenance type, and utilization trend.
 
 ### 3. Trips & Operations
+![Trips & Operations](images/3_trips_operations.png)
 
 | KPI | Value |
 |---|---|
@@ -130,6 +133,7 @@ Visuals: truck count by status, monthly maintenance cost, downtime hours by main
 Visuals: monthly/yearly trips, trips by destination city, trips by driver, and trips by terminal.
 
 ### 4. Fuel & Delivery Operations
+![Fuel & Delivery](images/4_fuel_delivery.png)
 
 | KPI | Value |
 |---|---|
