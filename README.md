@@ -97,7 +97,7 @@ This capstone turns 14 raw operational tables into a **four-page interactive Pow
 
 ### 1. Executive Revenue & Customer Overview
 
-Image/1_revenue_overview.png
+![Revenue Overview](Image/1_revenue_overview.png)
 
 | KPI | Value |
 |---|---|
