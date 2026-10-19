@@ -124,7 +124,7 @@ Visuals: truck count by status, monthly maintenance cost, downtime hours by main
 
 ### 3. Trips & Operations
 
-![Trips & Operations](images/3_trips_operations.png)
+![Trips & Operations](Image/3_trips_operations.png)
 
 | KPI | Value |
 |---|---|
