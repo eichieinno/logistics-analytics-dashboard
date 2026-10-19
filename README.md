@@ -110,7 +110,7 @@ Visuals: monthly revenue trend, revenue by customer type (Contract $98.8M, Spot 
 
 ### 2. Fleet & Maintenance
 
-![Fleet & Maintenance](images/2_fleet_maintenance.png)
+![Fleet & Maintenance](Image/2_fleet_maintenance.png)
 
 | KPI | Value |
 |---|---|
